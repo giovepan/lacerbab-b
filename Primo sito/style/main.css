@@ -1,0 +1,57 @@
+/****Generale****/
+*{
+	margin: 10px;
+}
+body{
+	font-family: Ariel, Sans-serif;
+}
+	#header li {
+	.nav{
+		text-transform:none;
+		display:inline;
+		text-align: center;
+		margin: 100px;
+		width: 8px;
+		background-color: #66ffcc;
+	}
+	}
+	#header li {
+		background-color: ##ccffcc;
+
+	}
+	h1{color: red;
+		font-size: 30px;
+		font-style: bold;
+		text-align: center;
+		padding: 0px;
+		border-top: 3px solid black;
+		border-left: 3px solid black;
+		border-right: 3px solid black;
+		margin: auto;
+		background-color: yellow;
+		width: 400px;
+		margin-left: auto;
+		margin-right: auto;
+		margin-top: 0;
+	}
+	h2{
+		text-align: center;
+		background-color: yellow;
+		width: 400px;
+		margin-left: auto;
+		padding: 0px;
+		margin: auto;
+		border-bottom: 3px solid black;
+		border-left: 3px solid black;
+		border-right: 3px solid black;		
+	}
+	li{
+		display: inline-block;
+	}
+	header{
+	}
+/****Header****/
+
+	
+}n
+
